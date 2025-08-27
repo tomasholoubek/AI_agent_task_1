@@ -12,7 +12,6 @@ load_dotenv()
 api_key = os.environ.get("OPENAI_API_KEY")
 if not api_key:
     print("Error: OPENAI_API_KEY not found in environment variables.")
-    print("Please create a .env file with your OpenAI API key.")
     sys.exit(1)
 
 client = OpenAI(api_key=api_key)
