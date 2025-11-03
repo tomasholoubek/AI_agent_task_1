@@ -1,6 +1,6 @@
 # Currency Conversion Assistant
 
-A simple interactive currency conversion assistant powered by OpenAI's GPT-4o model. This script allows you to convert between EUR, USD, and CZK currencies using natural language queries.
+A simple currency conversion assistant powered by OpenAI's GPT-4o model. This script allows you to convert between EUR, USD, and CZK currencies using natural language queries.
 
 ## Features
 
